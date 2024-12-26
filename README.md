@@ -85,6 +85,18 @@ This repository contains a curated list of free online resources, tools, courses
 
 ---
 
+## ⭐ Support the Project
+
+If you find this repository useful, please consider giving it a star! ⭐ Your support helps others find the project and encourages further contributions.
+
+### How to Star:
+1. Go to the [repository page](#) on GitHub.
+2. Click the star icon in the top-right corner.
+
+Thank you for your support! 🙏
+
+---
+
 ## Conclusion
 
 This collection of resources provides valuable tools for both beginners and advanced developers. By leveraging these links, you can sharpen your technical skills, improve your workflow, and enhance your career opportunities.
