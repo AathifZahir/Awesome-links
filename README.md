@@ -2,10 +2,6 @@
 
 This repository contains a curated list of free online resources, tools, courses, and platforms categorized by topics such as **Learning & Certification**, **Developer Tools**, **Web Development**, **GitHub/Open Source**, and more. Whether you're a beginner or an experienced developer, these resources will help you advance your skills.
 
-Here's a short note you can add to your README:
-
----
-
 > **Note**: This list is still a work in progress. The resources provided are curated from various sources, and I am not responsible for the content or availability of the linked websites. I do not own any of the resources listed here. Please verify the accuracy and relevance of the resources before using them.
 
 ---
