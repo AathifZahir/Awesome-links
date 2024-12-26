@@ -1,4 +1,4 @@
-# Awesome Learning & Development Resources
+# 🌟 Awesome Learning & Development Resources
 
 This repository contains a curated list of free online resources, tools, courses, and platforms categorized by topics such as **Learning & Certification**, **Developer Tools**, **Web Development**, **GitHub/Open Source**, and more. Whether you're a beginner or an experienced developer, these resources will help you advance your skills.
 
@@ -16,7 +16,7 @@ This repository contains a curated list of free online resources, tools, courses
 
 ---
 
-## Learning & Certification
+## 🎓 Learning & Certification
 
 | **Name** | **Link** | **Short Description** |
 |----------|----------|-----------------------|
@@ -29,7 +29,7 @@ This repository contains a curated list of free online resources, tools, courses
 
 ---
 
-## Developer Tools & Resources
+## 🛠 Developer Tools & Resources
 
 | **Name** | **Link** | **Short Description** |
 |----------|----------|-----------------------|
@@ -42,7 +42,7 @@ This repository contains a curated list of free online resources, tools, courses
 
 ---
 
-## Web Development & UI/UX Design
+## 🌐 Web Development & UI/UX Design
 
 | **Name** | **Link** | **Short Description** |
 |----------|----------|-----------------------|
@@ -54,7 +54,7 @@ This repository contains a curated list of free online resources, tools, courses
 
 ---
 
-## GitHub & Open Source
+## 🐙 GitHub & Open Source
 
 | **Name** | **Link** | **Short Description** |
 |----------|----------|-----------------------|
@@ -64,7 +64,7 @@ This repository contains a curated list of free online resources, tools, courses
 
 ---
 
-## Learning Strategies & Blog Posts
+## 🧠 Learning Strategies & Blog Posts
 
 | **Name** | **Link** | **Short Description** |
 |----------|----------|-----------------------|
@@ -103,4 +103,4 @@ This collection of resources provides valuable tools for both beginners and adva
 
 ---
 
-Happy learning and building!
+Happy learning and building! 💻🚀
