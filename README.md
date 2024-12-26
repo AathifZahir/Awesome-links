@@ -6,13 +6,13 @@ This repository contains a curated list of free online resources, tools, courses
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
-1. [Learning & Certification](#learning--certification)
-2. [Developer Tools & Resources](#developer-tools--resources)
-3. [Web Development & UI/UX Design](#web-development--uiux-design)
-4. [GitHub & Open Source](#github--open-source)
-5. [Learning Strategies & Blog Posts](#learning-strategies--blog-posts)
+1. [🎓 Learning & Certification](#learning--certification)
+2. [🛠 Developer Tools & Resources](#developer-tools--resources)
+3. [🌐 Web Development & UI/UX Design](#web-development--uiux-design)
+4. [🐙 GitHub & Open Source](#github--open-source)
+5. [🧠 Learning Strategies & Blog Posts](#learning-strategies--blog-posts)
 
 ---
 
